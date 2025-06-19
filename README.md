@@ -1,4 +1,4 @@
-<div dir="auto" style=" display: flex; justify-content: center; padding: 16px; background-color: #0a66c2;">
+<div style=" display: flex; justify-content: center; padding: 16px; background-color: #0a66c2;">
     <a href="https://anjjar.com/">
         <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
     </a>
