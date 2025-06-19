@@ -4,8 +4,9 @@
     padding: 16px;
     background-color: #0a66c2;
 ">
-![Anjjar logo](https://anjjar.com/logo.webp)
 </div>
+    
+![Anjjar logo](https://anjjar.com/logo.webp)
 
 # Web Developer / Vue.js / Nuxt.js | +4 years experience
 
