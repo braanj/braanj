@@ -1,16 +1,9 @@
-<div dir="auto" style="
-    display: flex;
-    justify-content: center;
-    padding: 16px;
-    background-color: #0a66c2;
-">
+<div dir="auto" style=" display: flex; justify-content: center; padding: 16px; background-color: #0a66c2;">
     <a href="https://anjjar.com/">
         <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
     </a>
 </div>
     
-![Anjjar logo](https://anjjar.com/logo.webp)
-
 # Web Developer / Vue.js / Nuxt.js | +4 years experience
 
 My name is Brahim Anjjar. I'm a front-end developer specializing in Vue.js, and Nuxt.js, with over 4 years' experience in creating high-performance, accessible and SEO-friendly websites.
