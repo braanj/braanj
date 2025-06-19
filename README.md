@@ -1,4 +1,11 @@
+<div dir="auto" style="
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #0a66c2;
+">
 ![Anjjar logo](https://anjjar.com/logo.webp)
+</div>
 
 # Web Developer / Vue.js / Nuxt.js | +4 years experience
 
