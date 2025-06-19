@@ -1,8 +1,6 @@
-<div class="clearfix d-flex flex-items-center p-4 color-bg-white">
-    <a href="https://anjjar.com/">
-        <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
-    </a>
-</div>
+<a href="https://anjjar.com/">
+    <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
+</a>
         
 # Web Developer / Vue.js / Nuxt.js | +4 years experience
 
