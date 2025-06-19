@@ -1,21 +1,19 @@
-
-
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .logo-wrapper {
-                display: flex;
-                justify-content: center;
-                padding: 16px;
-                background-color: #0a66c2;
-            }
+                    display: flex;
+                    justify-content: center;
+                    padding: 16px;
+                    background-color: #0a66c2;
+                }
             </style>
             <div class="logo-wrapper">
-    <a href="https://anjjar.com/">
-        <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
-    </a>
-</div>
+                <a href="https://anjjar.com/">
+                    <img src="https://anjjar.com/logo.webp" alt="Anjjar logo"style="max-width: 100%;">
+                </a>
+            </div>
         </div>
     </foreignObject>
 </svg>
